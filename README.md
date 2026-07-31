@@ -1,4 +1,4 @@
-🛡️# Security Engineering Labs
+# 🛡️ Security Engineering Labs
 
 Repositório dedicado à documentação de estudos de caso, laboratórios e projetos voltados para infraestrutura e segurança da informação.
 
