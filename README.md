@@ -1,4 +1,4 @@
-🛡️ Security Engineering Labs
+🛡️# Security Engineering Labs
 
 Repositório dedicado à documentação de estudos de caso, laboratórios e projetos voltados para infraestrutura e segurança da informação.
 
@@ -6,7 +6,7 @@ Repositório dedicado à documentação de estudos de caso, laboratórios e proj
 O objetivo é validar soluções, documentar implementações e registrar aprendizados obtidos em cenários reais e ambientes controlados.
 
 
-#Principais áreas
+# Principais áreas
 - Infraestrutura e Redes
 - Wazuh / SIEM
 - Monitoramento e Detecção
