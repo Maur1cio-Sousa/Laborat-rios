@@ -10,7 +10,7 @@ Layer 2 através de VPLS.
 
 ## 🗺️ Topologia
 
-![Topologia](topology/"Captura de tela 2026-09-06 022050.png")
+![Topologia](topology/[Captura de tela 2026-09-06 022050.png])
 
 ## 🎯 Objetivos
 
